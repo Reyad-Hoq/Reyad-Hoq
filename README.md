@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1850" height="993" alt="reyad-full-stack-cover" src="https://github.com/user-attachments/assets/9de17731-5099-46e7-a37d-40fe29728160" />
+  <img width="1850" height="920" alt="reyad-full-stack-cover" src="https://github.com/user-attachments/assets/9de17731-5099-46e7-a37d-40fe29728160" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Reyad Hoq</h1>
